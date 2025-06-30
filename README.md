@@ -1,3 +1,5 @@
+LIVE DEMO: https://cryptocurrency-price-tracker-git-main-parth-dhawales-projects.vercel.app
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
